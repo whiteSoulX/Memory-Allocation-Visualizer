@@ -21,7 +21,8 @@ Visit the live demo to experience the visualization firsthand. It's a must-see f
 https://whitesoulxallocator.netlify.app/
 
 Note for Visitors and Students
-Ensure to check out the live demo to experience the visualization of memory allocation in action!
+Ensure to check out the live demo to experience the visualization of memory allocation in action! We will definitely work with this later. 
+Thank For UnderStanding!
 
 License
 MIT License
